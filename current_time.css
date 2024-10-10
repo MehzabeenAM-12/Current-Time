@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    text-align: center;
+    padding: 9rem;
+  }
+  
+  .clock{
+    color: white;
+    font-size: 11rem;
+  }
+  /* .clock is the whole div container */
+  
+  h1{
+    color: white;
+    font-family: helvetica;
+  }
+  
+  
